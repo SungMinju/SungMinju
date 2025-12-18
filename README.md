@@ -29,8 +29,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=UIKit&logoColor=white">
   
-
-</div>
-
-## GitHub Stats
-![SungMinju's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungMinju&show_icons=true&theme=tokyonight)
