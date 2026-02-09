@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img height="140" src="https://github.com/user-attachments/assets/3a7b24f6-ff68-4a91-8629-531a008f01eb" />
 
   <a href="https://www.gitanimals.org/ko_KR">
-    <img src="https://render.gitanimals.org/farms/{username}" width="600" height="300" />
+    <img src="https://render.gitanimals.org/farms/sungminju" width="600" height="300" />
   </a>
 </div>
 
