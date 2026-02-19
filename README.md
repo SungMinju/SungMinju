@@ -30,8 +30,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=UIKit&logoColor=white">
 
 </div>
+
 ## GitHub Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yangjiae12&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SungMinju&theme=dracula" />
 
 <br><br>
 
