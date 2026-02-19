@@ -41,3 +41,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SungMinju&utm_content=farm">
+<img src="https://render.gitanimals.org/farms/SungMinju" width="600" height="300" />
+</a>
