@@ -36,11 +36,9 @@ Here are some ideas to get you started:
 <div align="center">
   <img height="140" src="https://github.com/user-attachments/assets/3a7b24f6-ff68-4a91-8629-531a008f01eb" />
 
-  <a href="https://www.gitanimals.org/ko_KR">
-    <img src="https://render.gitanimals.org/farms/sungminju" width="600" height="300" />
-  </a>
-</div>
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SungMinju&utm_content=farm">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SungMinju&utm_content=farm">
 <img src="https://render.gitanimals.org/farms/SungMinju" width="600" height="300" />
 </a>
+</div>
+
+
