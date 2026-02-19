@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SungMinju&theme=dracula" />
 
 <br><br>
+</div>
+
+## Git Animal
 <div align="center">
   <img height="140" src="https://github.com/user-attachments/assets/3a7b24f6-ff68-4a91-8629-531a008f01eb" />
 
