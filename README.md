@@ -29,11 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=UIKit&logoColor=white">
 
-<br>
-[![DevTier](https://devtier-brown.vercel.app/api/badge/SungMinju?theme=dark&size=md)](https://devtier-brown.vercel.app/result/SungMinju)
-
 </div>
-
 ## GitHub Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SungMinju&theme=dracula" />
 <br><br>
