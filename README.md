@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 ## GitHub Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SungMinju&theme=dracula" />
 <br><br>
-</div>
 
 ## Git Animal
 <div align="center">
