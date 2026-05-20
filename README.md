@@ -31,13 +31,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SungMinju&theme=dracula" />
-  <br><br>
-  <a href="https://devtier-brown.vercel.app/result/SungMinju">
-    <img src="https://devtier-brown.vercel.app/api/badge/SungMinju?theme=dark&size=md" alt="DevTier" />
-  </a>
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SungMinju&theme=dracula" />
 
 <br><br>
 
